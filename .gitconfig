@@ -3,12 +3,6 @@
 	name = Nikolay Mishin
 [push]
 	default = simple
-[ph]
-	user = mishin
-	token = 15f8106e126872157c2ba324abf677229807f1f1
-[github]
-        user = mishin
-	token = 15f8106e126872157c2ba324abf677229807f1f1
 [alias]
 	  co = checkout
 	  ci = commit
